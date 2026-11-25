@@ -1,15 +1,15 @@
 # CCSA110-Threat-Prevention-Fundamentals
-Assignment: Configure and Validate a Check Point Threat Prevention Policy
+# Assignment: Configure and Validate a Check Point Threat Prevention Policy
 This repository contains my CCSA110 practical lab report and supporting evidence for configuring and reviewing a Check Point Threat Prevention policy in a Check Point R82 lab environment.
-Student Information
-Field	Details
-Programme	CCSA Cohort 11
-Institution	International Cybersecurity & Digital Forensics Academy (ICDFA)
-Student Reference	C11/26/CCSA/17114
-Lab Platform	Check Point R82
-Management Server	icdfar82smsv2
-Policy Package	Orion-Layers
-Cluster Object	icdfa-r82-cluster
+- Student Information
+- Field	Details
+- Programme	CCSA Cohort 11
+- Institution	International Cybersecurity & Digital Forensics Academy (ICDFA)
+- Student Reference	C11/26/CCSA/17114
+- Lab Platform	Check Point R82
+- Management Server	icdfar82smsv2
+- Policy Package	Orion-Layers
+- Cluster Object	icdfa-r82-cluster
 
 
 Repository Structure
